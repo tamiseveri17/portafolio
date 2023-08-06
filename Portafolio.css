@@ -1,0 +1,50 @@
+*{
+    border-color: black;
+    border-left: 55px;
+}
+
+body{
+    background-color:rgb(142, 141, 228);
+    
+    
+}
+
+h1{
+    font-family: fantasy;
+    width: 500px ;
+    
+}
+
+.cursiva{
+    font-family: Verdana;
+}
+    
+
+
+#subrayado{
+    text-decoration: underline;
+}
+
+#Descripcion{
+    font-style: oblique;
+}
+
+.centrado{
+    text-align: center;
+}
+
+p{
+    font-family: "arial"; 
+    line-height: 200%;  
+    width: 500px ; 
+    
+}
+
+.imagen-redonda{
+    border-radius: 100%;
+    width: 150px;
+    align-items: right;
+    float: right;
+    }
+    
+    
